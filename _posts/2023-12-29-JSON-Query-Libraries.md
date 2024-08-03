@@ -2,7 +2,7 @@
 layout: post
 title: "JSON Query Libraries"
 created: 2023-12-29
-edited: 2024-01-02
+edited: 2024-08-03
 category: [기술]
 tags: [JSON:rgb(245 224 233):rgb(76 35 55),jmespath:rgba(227 226 224 0.5):rgb(50 48 44),jsonpath-plus:rgb(211 229 239):rgb(24 51 71),json-query:rgb(238 224 218):rgb(68 42 30),jsonpath:rgb(255 226 221):rgb(93 23 21),JSONStream:rgb(232 222 238):rgb(65 36 84),oboe:rgb(253 236 200):rgb(64 44 27)]
 ---

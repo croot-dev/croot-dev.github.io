@@ -2,7 +2,7 @@
 layout: post
 title: "Gradle + SpringBoot+ GraphQL"
 created: 2024-03-19
-edited: 2024-04-22
+edited: 2024-08-03
 category: [기술]
 tags: [SpringBoot:rgb(238 224 218):rgb(68 42 30),Gradle:rgb(245 224 233):rgb(76 35 55),VSCode:rgb(245 224 233):rgb(76 35 55),MariaDB:rgb(232 222 238):rgb(65 36 84),Java:rgb(250 222 201):rgb(73 41 14),GraphQL:rgb(211 229 239):rgb(24 51 71)]
 ---

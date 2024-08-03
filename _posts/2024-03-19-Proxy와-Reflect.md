@@ -2,7 +2,7 @@
 layout: post
 title: "Proxy와 Reflect"
 created: 2024-03-19
-edited: 2024-04-12
+edited: 2024-08-03
 category: [기술]
 tags: [ES6:rgb(219 237 219):rgb(28 56 41),Javascript:rgb(232 222 238):rgb(65 36 84)]
 ---

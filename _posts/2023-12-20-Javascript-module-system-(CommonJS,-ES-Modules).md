@@ -2,7 +2,7 @@
 layout: post
 title: "Javascript module system (CommonJS, ES Modules)"
 created: 2023-12-20
-edited: 2023-12-23
+edited: 2024-08-03
 category: [기술]
 tags: [commonjs:rgba(227 226 224 0.5):rgb(50 48 44),es modules:rgb(238 224 218):rgb(68 42 30),cjs:rgb(245 224 233):rgb(76 35 55),mjs:rgb(238 224 218):rgb(68 42 30),ESM:rgb(255 226 221):rgb(93 23 21)]
 ---

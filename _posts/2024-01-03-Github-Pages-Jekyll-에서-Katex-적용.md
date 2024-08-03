@@ -2,7 +2,7 @@
 layout: post
 title: "Github Pages Jekyll 에서 Katex 적용"
 created: 2024-01-03
-edited: 2024-01-03
+edited: 2024-08-03
 category: [기술]
 tags: [Mathjax:rgb(250 222 201):rgb(73 41 14),Katex:rgb(253 236 200):rgb(64 44 27),Markdown:rgb(227 226 224):rgb(50 48 44),Jekyll:rgb(253 236 200):rgb(64 44 27)]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Nuxt3(Nitro)환경에 Redis, FileStorage 연동"
 created: 2024-01-15
-edited: 2024-01-22
+edited: 2024-08-03
 category: [기술]
 tags: [nuxt:rgb(245 224 233):rgb(76 35 55),nitro:rgb(211 229 239):rgb(24 51 71),redis:rgb(250 222 201):rgb(73 41 14)]
 ---
